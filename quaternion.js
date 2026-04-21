@@ -1,3 +1,4 @@
+// quaternion class
 export default class Quaternion {
   constructor(w, x, y, z) {
     this.w = w;
